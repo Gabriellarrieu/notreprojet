@@ -1,11 +1,4 @@
 <<<<<<< HEAD
-﻿La langouste rouge ou langouste commune, Palinurus elephas, est une espèce de crustacés marins de la famille des Palinuridae (langoustes).
-
-
- <h1><u>Hi</u></h1>
-
-<p><i>paragraphe n°1</i></p>
-=======
 <!DOCTYPE html>
 <html>
   <head>
@@ -27,4 +20,8 @@
   
   </body>
 </html>
->>>>>>> fondEcranBleu
+
+ <h1><u>Hi</u></h1>
+
+<p><i>paragraphe n°1</i></p>
+>>>>>>> master
